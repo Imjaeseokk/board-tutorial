@@ -16,3 +16,4 @@
 ### 2025/02/19
 - swagger ui에서 post 요청 시 200, 422 response 둘 다 옴
 - postman에서 request 시 200만 확인 됨
+- https://chatgpt.com/share/67b4d625-653c-8003-bc25-f17a47b7b45e
